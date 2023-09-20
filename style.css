@@ -334,7 +334,8 @@ h2 {
       background-color: rgb(18, 216, 18);
     }
 .fgh{
-    margin-top: 5px;
+    display: block;
+    margin-top: 1200px;
 }
 
 
@@ -365,4 +366,6 @@ h2 {
     .tyfc{
       background-color: rgb(180, 202, 249);
     }
-
+    .sniw{
+  display: block;
+}
