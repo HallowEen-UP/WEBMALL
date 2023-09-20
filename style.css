@@ -337,3 +337,32 @@ h2 {
     margin-top: 5px;
 }
 
+
+/*top deal*/
+.yfu{
+      
+      display: flex;
+      
+      gap: 15px;
+      padding: 15px;
+      margin-top: 20px;
+      
+    }
+    .yfu1{
+      
+      display: flex;
+      justify-content: center;
+      
+    }
+    .hhw2{
+      position: absolute;
+      width: 100%;
+    }
+    .ofht{
+      position: absolute;
+      margin-top: 100px;
+    }
+    .tyfc{
+      background-color: rgb(180, 202, 249);
+    }
+
